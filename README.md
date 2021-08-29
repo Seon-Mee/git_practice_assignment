@@ -8,3 +8,4 @@
 Seon-Mee/Seon-Mee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+DBInc 제조서비스사업팀 신선미입니다. (●'◡'●)
